@@ -1,0 +1,86 @@
+body {
+  font-family: "Lato", sans-serif;
+  transition: background-color .5s;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  overflow-x: hidden;
+  transition: 0.5s;
+  /* padding-top: 60px; */
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 12px;
+  text-decoration: none;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+  font-family: 'poppins', sans-serif;
+  font-size: 14px;
+  font-weight:normal;
+}
+
+.sidenav a:hover {
+  color: black;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 0px;}
+  .sidenav a {font-size: 14px;}
+}
+
+/*user defined*/
+.sidediv1{
+	padding:10px;padding-top: 20px;background-color:#008ECC;color:#fff;font-family: 'poppins', sans-serif;font-weight: 700;font-size: 16px;
+}
+
+.sidedivbtn1{
+	border:1px solid white;padding: 5px 39px;
+}
+
+.sidedivbtn2{
+	border:1px solid white;padding: 5px 47px;
+}
+
+.sidehr{
+	border: 2.5px solid #d5dbdb;background-color:#d5dbdb;margin-bottom:5px;
+}
+
+.sideimg{
+	width:110;height:34;
+}
+
+.sidehead1{
+	padding: 0px 8px 8px 12px;margin-bottom:0px;font-weight:bold;
+}
+
+.sidehead2{
+	padding: 10px 8px 8px 12px;margin-bottom:0px;font-weight:bold;
+}
+
+.sidelabel{
+	font-size:14px;padding: 0px 8px 8px 12px;
+}
+
+/*topbar*/
+
