@@ -22,11 +22,6 @@ Designed for rural administration with roles like Admin, PDO, Supervisor, Compla
 
 
 
-"C:\xamp1\htdocs\RuralDevelopmentComplaints\RuralDevelopmentComplaints\images\Screenshot 2025-09-30 201548.png"
-"C:\xamp1\htdocs\RuralDevelopmentComplaints\RuralDevelopmentComplaints\images\Screenshot 2025-09-30 202043.png"
-"C:\xamp1\htdocs\RuralDevelopmentComplaints\RuralDevelopmentComplaints\images\Screenshot 2025-09-30 201952.png"
-"C:\xamp1\htdocs\RuralDevelopmentComplaints\RuralDevelopmentComplaints\images\Screenshot 2025-09-30 201801.png"
-"C:\xamp1\htdocs\RuralDevelopmentComplaints\RuralDevelopmentComplaints\images\Screenshot 2025-09-30 201654.png"
 ## Project Structure
 
 
