@@ -21,6 +21,11 @@ Designed for rural administration with roles like Admin, PDO, Supervisor, Compla
   - 
 
 
+![Screenshot1](images/Screenshot_2025-09-30_201548.png)
+![Screenshot2](images/Screenshot_2025-09-30_202043.png)
+![Screenshot3](images/Screenshot_2025-09-30_201952.png)
+![Screenshot4](images/Screenshot_2025-09-30_201801.png)
+![Screenshot5](images/Screenshot_2025-09-30_201654.png)
 
 ## Project Structure
 
