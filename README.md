@@ -20,7 +20,9 @@ Designed for rural administration with roles like Admin, PDO, Supervisor, Compla
   - Automatic complaint logs using MySQL triggers.
   - 
 
-https://www.dropbox.com/scl/fi/vjaiso4fi4g5h8tcg1wm8/Screenshot-2025-09-30-202043.png?rlkey=81u0tf3jhdo124xn6myq6t8bf&st=m3e9rajh&raw=1
+![Screenshot](https://www.dropbox.com/scl/fi/vjaiso4fi4g5h8tcg1wm8/Screenshot-2025-09-30-202043.png?raw=1)
+
+
 
 ## Project Structure
 
